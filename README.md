@@ -18,7 +18,7 @@ Una persona que llega con una duda debe poder encontrar el área que se parece a
 
 ## El despacho dentro de la historia
 
-Linde & Arce tiene una sede ficticia en Madrid centro. La historia comienza en **2016**, cuando Sofía Linde funda el despacho con una idea que recorre toda la web: escuchar, poner orden en los hechos y explicar las opciones antes de pedir una decisión. En **2019** se incorpora el área de familia; en **2022**, la de empresa; y en **2025**, la atención a distancia se extiende, dentro de esta ficción, a toda España.
+Linde & Arce tiene una sede ficticia en Madrid centro. La historia comienza en **2016**, cuando Sofía Linde funda el despacho con una idea que recorre toda la web: escuchar, poner orden en los hechos y explicar las opciones antes de pedir una decisión. En **2019** se incorpora el área de familia; en **2022**, la de derecho mercantil; y en **2025**, la atención a distancia se extiende a toda España.
 
 La web se dirige a **particulares, autónomos y pequeñas empresas**. Una persona puede necesitar ayuda con una herencia o una separación. Un autónomo quizá quiere revisar un contrato comercial. Una empresa puede tener dudas sobre un despido, un acuerdo entre socios o una sanción administrativa. La navegación parte de esas situaciones y permite llegar a una página específica, con información suficiente para preparar una primera conversación.
 
