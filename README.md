@@ -4,13 +4,13 @@
 
 ![Portada de Linde & Arce](assets/capturas/01-inicio.png)
 
-Cuando alguien busca ayuda jurídica, suele llegar con una situación concreta y sin saber el nombre de la especialidad que necesita. Linde & Arce parte de esa realidad: permite explorar el asunto en palabras cercanas, conocer a la persona que podría atenderlo y entender cómo empezar.
+Cuando alguien busca ayuda jurídica, suele llegar con una situación concreta y sin saber el nombre de la especialidad que necesita. Linde & Arce parte de esa realidad: permite explorar el asunto con palabras cercanas, conocer a la persona que podría atenderlo y entender cómo empezar.
 
 Es un **proyecto de portfolio** para un despacho ficticio. Los nombres, perfiles, opiniones, precios y datos de contacto que aparecen en la maqueta son ejemplos. No representa a un despacho operativo ni recoge solicitudes reales.
 
 **[Abrir la presentación y ver el vídeo](https://unai-598.github.io/portfolio-linde-arce-abogados/)** · [Explorar todas las capturas](CAPTURAS.md)
 
-## El encargo
+## El objetivo
 
 Diseñar una experiencia que inspire confianza desde la primera pantalla y ayude al visitante a encontrar una respuesta útil sin conocer terminología jurídica. La web debía ser atractiva, pero también clara sobre el siguiente paso, los honorarios y los límites de una consulta inicial.
 
