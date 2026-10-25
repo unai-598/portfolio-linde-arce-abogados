@@ -8,7 +8,7 @@ Cuando alguien busca ayuda jurídica, suele llegar con una situación concreta y
 
 Es un **proyecto de portfolio** para un despacho ficticio. Los nombres, perfiles, opiniones, precios y datos de contacto que aparecen en la maqueta son ejemplos. No representa a un despacho operativo ni recoge solicitudes reales.
 
-**[Ver el recorrido en vídeo (2 min 43 s)](assets/linde-arce-recorrido.mp4)** · [Explorar todas las capturas](CAPTURAS.md)
+**[Abrir la presentación y ver el vídeo](https://unai-598.github.io/portfolio-linde-arce-abogados/)** · [Explorar todas las capturas](CAPTURAS.md)
 
 ## El encargo
 
@@ -39,7 +39,7 @@ Las capturas son fotogramas del vídeo original a **1912 × 944 píxeles**, guar
 
 ## Ver más
 
-- [Vídeo del recorrido](assets/linde-arce-recorrido.mp4)
+- [Presentación pública con vídeo](https://unai-598.github.io/portfolio-linde-arce-abogados/)
 - [Galería completa de capturas](CAPTURAS.md)
 - [Decisiones de diseño y contenido](PROYECTO.md)
 
